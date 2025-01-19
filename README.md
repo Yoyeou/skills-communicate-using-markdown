@@ -38,14 +38,14 @@ _Welcome to "Communicate using Markdown"! :wave:_
 ```md
 # This is an `<h1>` header, which is the 
 
-## This is an `<h2>` header
+This is an `<h2>` header
 
 ###### This is an `<h6>` header, which is the smallest
 ```
 
 #### How it looks
 
-# This is an `<h1>` header, which is the largest
+This is an  header, which is the largest
 
 ## This is an `<h2>` header
 
